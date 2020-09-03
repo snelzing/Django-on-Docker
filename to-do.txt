@@ -1,0 +1,6 @@
+Here is the to-do on this project:
+
+put this bitch up to github
+make a branch just each new feature from now on
+make the nginx service in the docker compose also use a .env so that I can screw with the port number and shit
+make it work with http://cat
